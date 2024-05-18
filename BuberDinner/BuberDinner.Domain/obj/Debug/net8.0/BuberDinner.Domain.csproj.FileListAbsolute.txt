@@ -1,0 +1,12 @@
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.deps.json
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.dll
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.pdb
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfo.cs
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.dll
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll

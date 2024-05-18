@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "606VjA+WYqMaBKIJU2xKbU7uHoSsi0o5e/UnCAP69MWJJmVbRqTc28Ey8+/U0ZzsPK/qPHox1nUJL9TLTEJvgQ==",
+  "success": true,
+  "projectFilePath": "H:\\E\\Programming\\Self Study\\Claean Achitecture - 1\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Essam\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Essam\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Essam\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Essam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

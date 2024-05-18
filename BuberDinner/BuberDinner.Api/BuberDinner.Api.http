@@ -1,0 +1,16 @@
+@BuberDinner.Api_HostAddress = http://localhost:5121
+
+GET {{BuberDinner.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{BuberDinner.Api_HostAddress}}/auth/register
+Content-Type: application/json
+
+{
+  "firstNme": "Essam",
+  "lastName": "Elsharkawy",
+  "email": "essamelsharkawy@gmail.com",
+  "password": "12345"
+}

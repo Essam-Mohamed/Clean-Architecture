@@ -1,0 +1,11 @@
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.deps.json
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.dll
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfo.cs
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.dll
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
+H:\E\Programming\Self Study\Claean Achitecture - 1\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
